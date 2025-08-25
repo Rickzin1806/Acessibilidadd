@@ -1,1 +1,0 @@
-console.log('Projeto História do Futebol carregado!');
